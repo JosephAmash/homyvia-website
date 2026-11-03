@@ -1,0 +1,6 @@
+{
+  "name": "HomyVia - Umzüge, Montage, Entsorgung & Trockenbau",
+  "description": "Offizielle Website von HomyVia in Leverkusen & NRW. Ihr zuverlässiger Partner für Umzüge, Montage, Entsorgung und modernen Trockenbau. Gemeinsam mehr bewegen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
